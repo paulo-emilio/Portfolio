@@ -1,8 +1,7 @@
 # Bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados!
-[![author](https://img.shields.io/badge/author-henriquewfranco-red.svg)](https://www.linkedin.com/in/henriquewfranco/) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 <p align="center">
-  <img src="https://github.com/HenriqueWF/Portfolio/assets/86746927/2e663706-31cc-48f8-9bb5-42f4678eb72f" width=40%>
+  <img src="files/wallpaper.jpg" width=100%>
 </p>
 
 ## **PROJETOS**
