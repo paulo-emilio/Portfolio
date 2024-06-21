@@ -4,7 +4,7 @@
   <img src="files/wallpaper.jpg" width=100%>
 </p>
 
-## **PROJETOS**
+# **PROJETOS**
 
 ## **Power BI**
 
@@ -15,7 +15,7 @@
  - [Clique aqui para obter mais detalhes do projeto](https://github.com/HenriqueWF/PBI_BA/tree/main)
 
 <p align="center">
-  <img alt="BA" width="65%" src="https://github.com/paulo-emilio/Power-BI-projects/raw/main/prints/gifs/alurapets.gif">
+  <img alt="BA" width="65%" src="https://github.com/paulo-emilio/Power-BI-projects/raw/main/prints/gifs/peopleanalytics.gif">
 </p>
 
 ### [**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
