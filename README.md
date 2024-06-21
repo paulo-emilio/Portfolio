@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados!
+# Bem-vindo(a) ao meu Portfólio!
 
 <p align="center">
   <img src="files/wallpaper.jpg" width=100%>
@@ -13,8 +13,9 @@
  - Para obter os dados, fiz um Web Scraping utilizando as bibliotecas BeautifulSoup e Selenium para automatizar a tarefa.
  - [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODkxNmRiMTktMjI3MC00MTRiLTkxNjMtNTA3YTZjYjI3NTQ1IiwidCI6ImM5YWFjMGZmLWQ1Y2MtNDRhMi05NjIyLWNkMmVlZmQ5Zjk4MiJ9)
  - [Clique aqui para obter mais detalhes do projeto](https://github.com/HenriqueWF/PBI_BA/tree/main)
+
 <p align="center">
-  <img alt="BA" width="65%" src="https://github.com/HenriqueWF/PBI_BA/assets/86746927/30ffef7d-91a8-4599-ab0e-e861655d73e6">
+  <img alt="BA" width="65%" src="https://github.com/paulo-emilio/Power-BI-projects/raw/main/prints/gifs/alurapets.gif">
 </p>
 
 ### [**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
