@@ -18,6 +18,11 @@
   <img alt="BA" width="65%" src="https://github.com/paulo-emilio/Power-BI-projects/raw/main/prints/gifs/peopleanalytics.gif">
 </p>
 
+PAGINA POWER BI: TESTE
+<iframe title="Relatório de Vendas" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+
 ### [**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
  - **Dashboard que complementa o meu estudo da COVID-19 (projeto abaixo)**, o qual teve como foco os registros de óbitos e casos confirmados da doença.
  - [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNmYTQ0NDYtZTk3Zi00NzZmLThmODktMTg2MDZkYjQxMzA3IiwidCI6ImM5YWFjMGZmLWQ1Y2MtNDRhMi05NjIyLWNkMmVlZmQ5Zjk4MiJ9)
