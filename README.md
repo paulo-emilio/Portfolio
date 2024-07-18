@@ -1,10 +1,58 @@
-# Bem-vindo(a) ao meu Portfólio!
+# Bem-vindo(a) ao meu Portfólio de Projetos!
+
+#### Autor: Paulo Emílio Nery Assis Oliveira
 
 <p align="center">
   <img src="files/wallpaper.jpg" width=100%>
 </p>
 
-# **PROJETOS**
+## Projetos em Power BI
+
+### [**People Analytics**](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics)
+
+Análise de dados de admissões, movimentações internas, desligamentos voluntários ou demitidos em uma empresa, visando melhorar a gestão de recursos humanos e subsidiar decisões estratégicas.
+
+<p align="center">
+  <img alt="BA" width="65%" src="https://github.com/paulo-emilio/Power-BI-projects/blob/main/People-Analytics/peopleanalytics.gif">
+</p>
+
+- Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## **Power BI**
 
