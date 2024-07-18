@@ -18,6 +18,17 @@ Análise de dados de admissões, movimentações internas, desligamentos volunt�
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
+<hr>
+
+### [**Super Pets**](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics)
+
+Análise de dados de admissões, movimentações internas, desligamentos voluntários ou demitidos em uma empresa, visando melhorar a gestão de recursos humanos e subsidiar decisões estratégicas.
+
+<p align="center">
+  <img alt="BA" width="65%" src="https://github.com/paulo-emilio/Power-BI-projects/blob/main/People-Analytics/peopleanalytics.gif">
+</p>
+
+- Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
 
 
