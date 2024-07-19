@@ -64,7 +64,7 @@ Acesse: [Projeto no GitHub](https://github.com/paulo-emilio/House-Pricing) | [An
 
 Limpeza e análise de dados de partidas de xadrez coletadas do site Lichess.org. O objetivo é explorar as características das partidas e identificar os fatores chave que influenciam os resultados dos jogos, com foco em entender as relações entre as classificações dos jogadores, o tempo de jogo e as decisões estratégicas.
 
-<img alt="BA" width="50%" src="https://github.com/paulo-emilio/Lichess-Matches/blob/main/figures/wallpaper.jpg">
+<img alt="BA" width="65%" src="https://github.com/paulo-emilio/Lichess-Matches/blob/main/figures/wallpaper.jpg">
 
 Acesse: [Projeto no GitHub](https://github.com/paulo-emilio/Lichess-Matches) | [Limpeza dos dados](https://github.com/paulo-emilio/Lichess-Matches/blob/main/notebooks/1-data_cleaning.ipynb) | [Análise Exporatória dos dados](https://github.com/paulo-emilio/Lichess-Matches/blob/main/notebooks/2-eda.ipynb)
 
