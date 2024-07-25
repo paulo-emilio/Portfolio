@@ -11,7 +11,7 @@
 - [Projetos utilizando Power BI](#projetos-utilizando-power-bi)
 - [Projetos utilizando Python](#projetos-utilizando-python)
 - [Projetos utilizando SQL](#projetos-utilizando-sql)
-- [Projetos utilizando Planilhas (Excel e Google Sheets)](#projetos-utilizando-planilhas-excel-e-google-sheets)
+- [Projetos utilizando Excel)](#projetos-utilizando-planilhas-excel-e-google-sheets)
 - [Entre em contato comigo](#entre-em-contato-comigo-)
 
 <br>
