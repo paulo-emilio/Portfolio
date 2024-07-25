@@ -2,10 +2,7 @@
 
 ### Autor: Paulo Emílio Nery Assis Oliveira
 
-
-<p align="center">
-  <img src="files/others/wallpaper.jpg" width=100%>
-</p>
+<img src="files/others/wallpaper.jpg" width=100%>
 
 <br>
 
