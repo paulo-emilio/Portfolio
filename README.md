@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="files/wallpaper.jpg" width=100%>
+  <img src="files/others/wallpaper.jpg" width=100%>
 </p>
 
 <br>
@@ -15,7 +15,7 @@
 
 Análise de dados de admissões, movimentações internas, desligamentos voluntários ou demitidos em uma empresa, visando melhorar a gestão de recursos humanos e subsidiar decisões estratégicas.
 
-<img alt="BA" width="50%" src="https://github.com/paulo-emilio/Power-BI-projects/blob/main/People-Analytics/peopleanalytics.gif">
+<img alt="BA" width="50%" src="files/powerbi/peopleanalytics.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
@@ -25,7 +25,7 @@ Análise de dados de admissões, movimentações internas, desligamentos volunt�
 
 Dashboard que se atualiza automaticamente com base nos dados de vendas de uma loja de produtos para animais de estimação. Proporcionando insights para otimização de estoque, estratégias de marketing e tomada de decisões comerciais.
 
-<img alt="BA" width="50%" src="https://github.com/paulo-emilio/Power-BI-projects/blob/main/Super-Pets/superpets.gif">
+<img alt="BA" width="50%" src="files/powerbi//superpets.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTYwNThlM2ItNjc0NS00ZGI1LTljZGEtZmVlZDU1YmNkYzFiIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
@@ -35,7 +35,7 @@ Dashboard que se atualiza automaticamente com base nos dados de vendas de uma lo
 
 Dashboard interativo no Power BI para analisar as assinaturas realizadas no site "Clube do Livro". O objetivo principal é fornecer uma visão abrangente e detalhada sobre o comportamento dos assinantes, a performance de vendas e as características demográficas dos clientes.
 
-<img alt="BA" width="50%" src="https://github.com/paulo-emilio/Power-BI-projects/blob/main/Clube-do-Livro/clubedolivro.gif">
+<img alt="BA" width="50%" src="files/powerbi/clubedolivro.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
@@ -45,7 +45,7 @@ Dashboard interativo no Power BI para analisar as assinaturas realizadas no site
 
 Análise dos dados de compras feitas em e-commerces no Brasil, utilizando os dados fornecidos pela plataforma Olist. O objetivo é explorar e entender padrões de compra, métodos de pagamento preferidos, valores dos produtos vendidos e o volume de pedidos registrados.
 
-<img alt="BA" width="50%" src="https://github.com/paulo-emilio/Power-BI-projects/blob/main/E-commerce/olist.gif">
+<img alt="BA" width="50%" src="files/powerbi/olist.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
