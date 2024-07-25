@@ -1,5 +1,3 @@
-# Python SQL Power BI
-
 ### Autor: Paulo Emílio Nery Assis Oliveira
 
 <!--  <img alt="BA" width="100%" src="files/others/wallpaper.jpg"> -->
