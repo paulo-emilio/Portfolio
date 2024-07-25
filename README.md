@@ -12,7 +12,7 @@
 
 Análise de dados de admissões, movimentações internas, desligamentos voluntários ou demitidos em uma empresa, visando melhorar a gestão de recursos humanos e subsidiar decisões estratégicas.
 
-<img alt="BA" width="50%" src="files/powerbi/peopleanalytics.gif">
+<img alt="BA" width="60%" src="files/powerbi/peopleanalytics.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
@@ -22,7 +22,7 @@ Análise de dados de admissões, movimentações internas, desligamentos volunt�
 
 Dashboard que se atualiza automaticamente com base nos dados de vendas de uma loja de produtos para animais de estimação. Proporcionando insights para otimização de estoque, estratégias de marketing e tomada de decisões comerciais.
 
-<img alt="BA" width="50%" src="files/powerbi//superpets.gif">
+<img alt="BA" width="60%" src="files/powerbi//superpets.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTYwNThlM2ItNjc0NS00ZGI1LTljZGEtZmVlZDU1YmNkYzFiIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
@@ -32,7 +32,7 @@ Dashboard que se atualiza automaticamente com base nos dados de vendas de uma lo
 
 Dashboard interativo no Power BI para analisar as assinaturas realizadas no site "Clube do Livro". O objetivo principal é fornecer uma visão abrangente e detalhada sobre o comportamento dos assinantes, a performance de vendas e as características demográficas dos clientes.
 
-<img alt="BA" width="50%" src="files/powerbi/clubedolivro.gif">
+<img alt="BA" width="60%" src="files/powerbi/clubedolivro.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
@@ -42,7 +42,7 @@ Dashboard interativo no Power BI para analisar as assinaturas realizadas no site
 
 Análise dos dados de compras feitas em e-commerces no Brasil, utilizando os dados fornecidos pela plataforma Olist. O objetivo é explorar e entender padrões de compra, métodos de pagamento preferidos, valores dos produtos vendidos e o volume de pedidos registrados.
 
-<img alt="BA" width="50%" src="files/powerbi/olist.gif">
+<img alt="BA" width="60%" src="files/powerbi/olist.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
@@ -54,7 +54,7 @@ Análise dos dados de compras feitas em e-commerces no Brasil, utilizando os dad
 
 Este projeto utiliza a técnica de Regressão Linear para prever os preços de casas com base em diversas características. Além disso, um simulador interativo foi desenvolvido para permitir que os usuários insiram as características das casas e obtenham previsões de preços.
 
-<img alt="BA" width="50%" src="https://github.com/paulo-emilio/House-Pricing/blob/main/figures/simulador.gif">
+<img alt="BA" width="60%" src="files/python/simulador.gif">
 
 - Acesse: [Projeto no GitHub](https://github.com/paulo-emilio/House-Pricing) | [Análise Exporatória dos dados](https://github.com/paulo-emilio/House-Pricing/blob/main/notebook/Regressao-Linear-HousePricing.ipynb) | [Simulador Interativo](https://github.com/paulo-emilio/House-Pricing/blob/main/model/Simulador-Interativo.ipynb)
 
@@ -64,7 +64,7 @@ Este projeto utiliza a técnica de Regressão Linear para prever os preços de c
 
 Limpeza e análise de dados de partidas de xadrez coletadas do site Lichess.org. O objetivo é explorar as características das partidas e identificar os fatores chave que influenciam os resultados dos jogos, com foco em entender as relações entre as classificações dos jogadores, o tempo de jogo e as decisões estratégicas.
 
-<img alt="BA" width="65%" src="https://github.com/paulo-emilio/Lichess-Matches/blob/main/figures/wallpaper.jpg">
+<img alt="BA" width="65%" src="files/python/lichess.jpg">
 
 - Acesse: [Projeto no GitHub](https://github.com/paulo-emilio/Lichess-Matches) | [Limpeza dos dados](https://github.com/paulo-emilio/Lichess-Matches/blob/main/notebooks/1-data_cleaning.ipynb) | [Análise Exporatória dos dados](https://github.com/paulo-emilio/Lichess-Matches/blob/main/notebooks/2-eda.ipynb)
 
@@ -76,7 +76,7 @@ Limpeza e análise de dados de partidas de xadrez coletadas do site Lichess.org.
 
 Este projeto tem como objetivo analisar os fatores que afetam os preços dos computadores portáteis utilizando a plataforma Databricks e SQL. A análise inclui aspectos como marca, tipo de memória, processador, presença de touchscreen, entre outros. Os dados foram obtidos do Kaggle, mais especificamente do conjunto de dados "Lista de Preços de Laptops".
 
-<img alt="BA" width="50%" src="https://github.com/paulo-emilio/SQL-projects/blob/main/Vendas-de-notebooks/vendasnotebooks.gif">
+<img alt="BA" width="60%" src="files/sql/vendasnotebooks.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks) ou o [Notebook no databricks](https://thunder-root-duchess.glitch.me/)
 
@@ -88,7 +88,7 @@ Este projeto tem como objetivo analisar os fatores que afetam os preços dos com
 
 Este projeto no Excel foi desenvolvido para facilitar o controle de entregas de uma empresa de caminhões, permitindo análises detalhadas dos dados de logística para uma gestão eficiente das operações de transporte.
 
-<img alt="BA" width="50%" src="https://github.com/paulo-emilio/Excel-Sheets-projects/blob/main/Controle_de_Rotas-Excel/controlederotas.gif">
+<img alt="BA" width="60%" src="files/excel/controlederotas.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel) ou a [Planilha no Excel](https://1drv.ms/x/s!AiFjwGBG_LP41UI6SX_aRP8mGLXX?e=iC76bP)
 
