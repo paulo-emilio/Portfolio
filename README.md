@@ -2,9 +2,9 @@
 
 <img src="https://github.com/paulo-emilio.png" alt="Foto de Perfil" style="width: 100px; height: 100px; border-radius: 50%;">
 
-Olá! Eu sou Paulo Emílio e trabalho como analista de dados. Aqui está um pouco sobre mim.
+Olá! Eu sou Paulo Emílio. Aqui está um pouco sobre mim.... ....
 
-
+(em manutenção)
 
 
 
