@@ -1,6 +1,18 @@
+# Meu Portfólio
+
 ### Autor: Paulo Emílio Nery Assis Oliveira
 
 <!--  <img alt="BA" width="100%" src="files/others/wallpaper.jpg"> -->
+
+<br>
+
+## Índice
+
+- [Projetos utilizando Power BI](#projetos-utilizando-power-bi)
+- [Projetos utilizando Python](#projetos-utilizando-python)
+- [Projetos utilizando SQL](#projetos-utilizando-sql)
+- [Projetos utilizando Planilhas (Excel e Google Sheets)](#projetos-utilizando-planilhas-excel-e-google-sheets)
+- [Entre em contato comigo 💻](#entre-em-contato-comigo-)
 
 <br>
 
@@ -20,7 +32,7 @@ Análise de dados de admissões, movimentações internas, desligamentos volunt�
 
 Dashboard que se atualiza automaticamente com base nos dados de vendas de uma loja de produtos para animais de estimação. Proporcionando insights para otimização de estoque, estratégias de marketing e tomada de decisões comerciais.
 
-<img alt="BA" width="60%" src="files/powerbi//superpets.gif">
+<img alt="BA" width="60%" src="files/powerbi/superpets.gif">
 
 - Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets) ou o [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTYwNThlM2ItNjc0NS00ZGI1LTljZGEtZmVlZDU1YmNkYzFiIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
@@ -76,7 +88,7 @@ Este projeto tem como objetivo analisar os fatores que afetam os preços dos com
 
 <img alt="BA" width="60%" src="files/sql/vendasnotebooks.gif">
 
-- Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks) ou o [Notebook no databricks](https://thunder-root-duchess.glitch.me/)
+- Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks) ou o [Notebook no Databricks](https://thunder-root-duchess.glitch.me/)
 
 <br>
 
@@ -88,7 +100,7 @@ Este projeto no Excel foi desenvolvido para facilitar o controle de entregas de 
 
 <img alt="BA" width="60%" src="files/excel/controlederotas.gif">
 
-- Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel) ou a [Planilha no Excel](https://1drv.ms/x/s!AiFjwGBG_LP41UI6SX_aRP8mGLXX?e=iC76bP)
+- Acesse o [Projeto no GitHub](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel) ou a [Planilha no Excel](#)
 
 <br>
 
@@ -96,6 +108,6 @@ Este projeto no Excel foi desenvolvido para facilitar o controle de entregas de 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/paulo-emilio/)
 [<img alt="Instagram" src="https://img.shields.io/badge/pauloemilio%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/pauloemilio__/)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-](mailto:pauloemilio.sistemas@gmail.com)
+[<img alt="Gmail" src="https://img.shields.io/badge/-pauloemilio042@gmail.com-c14438?&style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:pauloemilio042@gmail.com)
 
+<br>
