@@ -1,8 +1,9 @@
-<img src="https://github.com/paulo-emilio.png" alt="Foto de Perfil" style="width: 200px; height: 200px; border-radius: 50%;">
+# Portfólio de Projetos de Análise e Ciência de Dados
 
-Sou Paulo Emilio, especializado em Análise e Ciência de Dados com conhecimentos sólidos em Python, SQL, Estatística e Machine Learning. Além proficiência em ferramentas como Power BI e Excel para criar visualizações de dados significativas e dashboards interativos. Meu nível avançado de inglês me permite colaborar em projetos internacionais e com equipes diversas. Possuo graduação em Sistemas de Informação e pós-graduação em Data Science.
+### Autor: Paulo Emílio Nery Assis Oliveira
 
-<!--  <img alt="BA" width="100%" src="files/others/wallpaper.jpg"> -->
+
+<img alt="BA" width="100%" src="files/others/wallpaper.jpg">
 
 <br>
 
