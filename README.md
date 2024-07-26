@@ -6,10 +6,6 @@ Profissional autônomo na área de Informática, buscando transição para Anál
 contribuições significativas às empresas onde atuei nos últimos cinco anos. Possuo uma sólida formação, incluindo pós-graduação 
 em Data Science e diversos cursos especializados. Estou focado no desenvolvimento contínuo da minha carreira na área de dados. 
 
-(em manutenção)
-
-
-
 <!--  <img alt="BA" width="100%" src="files/others/wallpaper.jpg"> -->
 
 <br>
