@@ -1,10 +1,6 @@
-## Sobre Mim
-
 <img src="https://github.com/paulo-emilio.png" alt="Foto de Perfil" style="width: 200px; height: 200px; border-radius: 50%;">
 
-Profissional autônomo na área de Informática, buscando transição para Análise e Ciência de Dados. Com um histórico de 
-contribuições significativas às empresas onde atuei nos últimos cinco anos. Possuo uma sólida formação, incluindo pós-graduação 
-em Data Science e diversos cursos especializados. Estou focado no desenvolvimento contínuo da minha carreira na área de dados. 
+Sou Paulo Emilio, especializado em Análise e Ciência de Dados com conhecimentos sólidos em Python, SQL, Estatística e Machine Learning. Além proficiência em ferramentas como Power BI e Excel para criar visualizações de dados significativas e dashboards interativos. Meu nível avançado de inglês me permite colaborar em projetos internacionais e com equipes diversas. Possuo graduação em Sistemas de Informação e pós-graduação em Data Science.
 
 <!--  <img alt="BA" width="100%" src="files/others/wallpaper.jpg"> -->
 
