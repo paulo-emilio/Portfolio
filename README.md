@@ -1,8 +1,10 @@
 ## Sobre Mim
 
-<img src="https://github.com/paulo-emilio.png" alt="Foto de Perfil" style="width: 100px; height: 100px; border-radius: 50%;">
+<img src="https://github.com/paulo-emilio.png" alt="Foto de Perfil" style="width: 200px; height: 200px; border-radius: 50%;">
 
-Olá! Eu sou Paulo Emílio. Aqui está um pouco sobre mim.... ....
+Profissional autônomo na área de Informática, buscando transição para Análise e Ciência de Dados. Com um histórico de 
+contribuições significativas às empresas onde atuei nos últimos cinco anos. Possuo uma sólida formação, incluindo pós-graduação 
+em Data Science e diversos cursos especializados. Estou focado no desenvolvimento contínuo da minha carreira na área de dados. 
 
 (em manutenção)
 
